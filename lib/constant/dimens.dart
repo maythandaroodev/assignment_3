@@ -14,7 +14,8 @@ const double kSP350x = 350.0;
 
 
 //app specific
-
+const double kTextBoxWidth = 350.0;
+const double kTextBoxHeight = 50.0;
 
 
 //font size

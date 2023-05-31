@@ -69,8 +69,8 @@ class LastAccessView extends StatelessWidget {
         const SizedBox(height: kSP30x,),
         Container(
           alignment: Alignment.center,
-          width: kSP350x,
-          height: kSP50x,
+          width: kTextBoxWidth,
+          height: kTextBoxHeight,
           decoration: const BoxDecoration(
             gradient: kGradientColor,
           ),

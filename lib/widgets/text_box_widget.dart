@@ -16,8 +16,8 @@ class TextBoxWidget extends StatelessWidget {
         margin: const EdgeInsets.only(bottom: kSP15x),
         alignment: Alignment.centerLeft,
         padding: const EdgeInsets.only(left: kSP15x),
-        width: kSP350x,
-        height: kSP50x,
+        width: kTextBoxWidth,
+        height: kTextBoxHeight,
         decoration: BoxDecoration(
           border: Border.all(color: kPrimaryColor),
         ),
